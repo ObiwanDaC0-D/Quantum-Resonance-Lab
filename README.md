@@ -41,4 +41,8 @@ This repository was created as **private**; GitHub Pages availability depends on
 5. Add automated tests, offline/PWA support, and full mobile browser testing.
 6. Develop the separate Atomic Synthesizer using the validated transition dataset.
 
+## License
+
+MIT License — Copyright (c) 2026 Jared Thomas. See [LICENSE](LICENSE).
+
 **Status:** Initial functional foundation. Browser-based testing and independent numerical validation have not yet been completed.
