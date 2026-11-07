@@ -1,3 +1,11 @@
+# Quantum Resonance Lab
+
+Quantum Resonance Lab is a hands-on educational atlas of matter, energy, frequency, and time. Its learning paths, wave laboratory, atomic visualizations, frequency experiments, mathematical tools, and research notebook make complex physics concepts approachable. Conceptual simulations and octave-reduced tones should not be mistaken for precision measurements or actual atomic sounds.
+
+**At a glance:** An interactive physics laboratory exploring waves, quantum states, atomic transitions, electromagnetic spectra, atomic clocks, octave mappings, and the mathematics of resonance.
+
+---
+
 # Quantum Resonance Lab — Version 1.0
 
 **The Interactive Atlas of Matter, Energy, Waves & Time**
